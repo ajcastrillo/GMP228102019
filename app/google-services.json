@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169278411219",
+    "firebase_url": "https://bd-gmp.firebaseio.com",
+    "project_id": "bd-gmp",
+    "storage_bucket": "bd-gmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169278411219:android:f83b9808c80e7e6f245f26",
+        "android_client_info": {
+          "package_name": "com.aplicacion.gmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169278411219-anmmfb6ogpm1gd82e5istm5ehlg40rq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplicacion.gmp",
+            "certificate_hash": "7865eb363a2e73df832dc99f9ba632ca6391db21"
+          }
+        },
+        {
+          "client_id": "169278411219-22buti4054flf319mvk99fvdotp9uaci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNq9o2S_t4uKZoWI8VtpC5SmIXlugihfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169278411219-22buti4054flf319mvk99fvdotp9uaci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
